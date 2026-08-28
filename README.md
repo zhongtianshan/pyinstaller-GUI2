@@ -70,4 +70,4 @@ output\             Output dir for packed exe
 
 [MIT](LICENSE)
 
-Copyright (c) 2025 zhongtianshan
+Copyright (c) 2026 zhongtianshan
