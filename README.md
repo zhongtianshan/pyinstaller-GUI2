@@ -11,10 +11,25 @@ A PySide6-based GUI wrapper for PyInstaller. All command-line options are visual
 - **Real-time build logs** in a background thread (UI never freezes)
 - **Config save/load**: settings are restored automatically next launch
 - **Preview the command**: click "Generate Command" to see the full PyInstaller command before packing
+- **Bilingual UI**: English & 中文, switch anytime from the top-right dropdown (English by default)
 
 ## Screenshots
 
-(TBD)
+**Demo video:**
+
+<video src="Demo%20Video/Video.mp4" controls width="100%" style="max-width:720px"></video>
+
+> Can't play inline? [Open the video file](Demo%20Video/Video.mp4).
+
+The five tabs:
+
+| Basic | Package | Resources |
+| :---: | :---: | :---: |
+| ![Basic](Demo%20Video/Basic.png) | ![Package](Demo%20Video/Package.png) | ![Resources](Demo%20Video/Resources.png) |
+
+| Security | Advanced |
+| :---: | :---: |
+| ![Security](Demo%20Video/Security.png) | ![Advanced](Demo%20Video/Advanced.png) |
 
 ## Requirements
 
