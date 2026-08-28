@@ -15,11 +15,11 @@ A PySide6-based GUI wrapper for PyInstaller. All command-line options are visual
 
 ## Screenshots
 
-**Demo video:**
+**Demo:**
 
-<video src="Demo%20Video/Video.mp4" controls width="100%" style="max-width:720px"></video>
+![Demo video](Demo%20Video/Video.gif)
 
-> Can't play inline? [Open the video file](Demo%20Video/Video.mp4).
+> Full-quality version: [Video.mp4](Demo%20Video/Video.mp4)
 
 The five tabs:
 
